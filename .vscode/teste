@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Assinatura de Chocolates Premium | Chocolatier</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <nav>
+      <img src="logo.png" alt="Chocolatier Logo">
+      <ul>
+        <li><a href="#benefits">Benefícios</a></li>
+        <li><a href="#testimonials">Depoimentos</a></li>
+        <li><a href="#cta">Assine Agora</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section id="hero">
+    <h1>Receba Mensalmente os Melhores Chocolates Artesanais Direto na sua Casa!</h1>
+    <p>Experimente a exclusividade e o sabor incomparável com a nossa assinatura de chocolates premium.</p>
+    <img src="hero-image.jpg" alt="Cesta de Chocolates">
+  </section>
+
+  <section id="benefits">
+    <h2>Por que Assinar?</h2>
+    <ul>
+      <li>Seleção exclusiva</li>
+      <li>Chocolates artesanais de alta qualidade</li>
+      <li>Edições limitadas</li>
+      <li>Personalização ao seu gosto</li>
+    </ul>
+  </section>
+
+  <section id="testimonials">
+    <h2>O que Nossos Clientes Dizem</h2>
+    <p>"Os melhores chocolates que já provei! Vale cada centavo." - Maria S.</p>
+    <p>"Adoro a variedade e a qualidade é incomparável." - João P.</p>
+  </section>
+
+  <section id="cta">
+    <h2>Assine Agora e Receba 10% de Desconto na Primeira Cesta!</h2>
+    <button>Assine Agora</button>
+  </section>
+
+  <footer>
+    <p>&copy; 2024 Chocolatier. Todos os direitos reservados.</p>
+  </footer>
+</body>
+</html>
